@@ -1,5 +1,5 @@
 # Image-similarity
-This will help to compare two images if they are similar to each other or not
+This will help to compare two images if they are similar to each other or not.
 Two images are loaded in image1 and image2. image1 loads reference image and image2 holds
 the image to be comapred in similarity.
 A VGG16 network is used without classifier i.e. in feature extractor mode to extract features
